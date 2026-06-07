@@ -22,8 +22,8 @@
 | Domain | Tools |
 | :--- | :--- |
 | **Languages** | C++, Python, JavaScript (React Native), SQL |
-| **AI & Data** | PyTorch, MediaPipe, OpenCV, FAISS, RAG Systems |
-| **The Lab** | Linux Mint (Daily Driver), Docker, Git |
+| **AI & Data** | PyTorch, MediaPipe, OpenCV, RAG Systems |
+| **The Lab** | Linux, Docker, Git |
 
 ---
 
