@@ -10,9 +10,8 @@
 ---
 
 ### ⚡ About me
-- CS Sophomore @ Cairo University (FCAI-CU). Ranking #1 with a 3.84 GPA.
-- Codeforces Specialist (Targeting Candidate Master). I live for the $O(N \log N)$ solutions.
-- Bridging the gap between LLMs and real-world utility.
+- CS Junior @ Cairo University (FCAI-CU). Ranking #1 with a 3.85 GPA.
+- Codeforces Specialist.
 - I value simplicity. If a system is too complex to explain, it’s probably over-engineered.
 - I use Linux mint (which is the **BEST** distro btw).
 
@@ -42,7 +41,7 @@
 ---
 
 ### Beyond the Code
-- **Funk Earblaster:** When I'm not debugging, I’m likely blasting away the latest brazilian funk on spotify.
+- **Funk Earblaster:** When I'm not debugging, I’m likely blasting away the latest funk on spotify.
 - **Early Bird:** I do my best thinking at 5:00 AM before the world gets noisy.
 
 ### 📫 Let's Connect
